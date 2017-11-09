@@ -1,5 +1,6 @@
 ---
 pages:
+- product2/p2_sample8.md
 - product2/p2_sample7.md
 - tooltips.html
 - pdfconfigs/tocpage.html
@@ -17,7 +18,6 @@ pages:
 - tags/tag_content_types.html
 - tags/tag_collaboration.html
 - product2/p2_sample9.md
-- product2/p2_sample8.md
 - product2/p2_sample6.md
 - product2/p2_sample5.md
 - product2/p2_sample4.md

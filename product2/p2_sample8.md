@@ -1,12 +1,25 @@
 ---
 title: Sample 8 Topic
 keywords: sample
-summary: "This is just a sample topic..."
+summary: This is just a sample topic...
 sidebar: product2_sidebar
-permalink: /p2_sample8/
+permalink: "/p2_sample8/"
 map: true
 map_name: usermapcomplex
 box_number: 2
+search: false
+tags: []
+type: ''
+last_updated: ''
+series: ''
+weight: ''
+toc: false
+audience: ''
+published: false
+datatable: false
+tagName: ''
+layout: page
+comments: false
 ---
 
 
